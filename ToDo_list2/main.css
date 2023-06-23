@@ -1,0 +1,15 @@
+h2 {
+  margin-top: 30px;
+}
+
+form {
+  margin-top: 20px;
+}
+.list-group-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.list-group {
+  margin-top: 10px;
+}
